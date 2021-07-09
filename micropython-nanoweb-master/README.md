@@ -1,6 +1,6 @@
-# Nanoweb
+# Webserver
 
-Nanoweb is a full asynchronous web server for micropython created in order to benefit from
+This webserver is a full asynchronous web server for micropython created in order to benefit from
 a correct ratio between memory size and features.
 
 It is thus able to run on an ESP8266 or ESP32.
